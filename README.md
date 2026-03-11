@@ -83,12 +83,12 @@ Sử dụng thuật toán decision tree để xây dựng các luật IF - THEN 
 ![image](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/17accepted.png)
 
 - Thực hiện đánh giá mô hình dựa vào confusion matrix
-- 
+
 ![image](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/18confusion.png)
 
 Độ chính xác của mô hình đạt 88% .
 - Preiction
-- 
+
 ![image](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/19preiction.png)
 
 `Kết quả xác suất 52% người đó phản hồi lại chiến dịch tiếp thị mới nhất. Kết quả này đúng với dự đoán của nhóm. Vì ta thấy người này có chấp nhận tham gia cả 3 chiến dịch là 1,3,5 và số tiền chi ra mua thịt > 600$ nên khả năng cao lớn hơn 50% người đó phản hồi lại chiến dịch tiếp thị mới nhất.  
