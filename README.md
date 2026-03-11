@@ -69,7 +69,9 @@ Sử dụng thuật toán decision tree để xây dựng các luật IF - THEN 
 ![image](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/15response.png)
 
 - Kết quả sau khi process model
+
 ![image](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/16afterproc.png)
+
 `	Từ kết quả trên ta có thể gom lại được 1 số luật như sau:`
 -	Đối với khách hàng phản hồi với chiến dịch tiếp thị (respone = 1)
 -	Nếu khách hàng không chấp nhận tham gia chiến dịch tiếp thị 5 nhưng tham gia vào chiến dịch tiếp thị 3 thì khả năng người đó phản hồi lại chiến dịch tiếp thị mới nhất đạt gần 44%.
