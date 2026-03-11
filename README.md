@@ -15,7 +15,7 @@ Sử dụng trực quan hóa dữ liệu trong marketing có nhiều lợi ích,
 # 3. Nội dung chính dự án
 ## 3 Làm sạch dữ liệu:
 - Trực quan tập dữ liệu và loại bỏ Outlier
-![image](https://github.com/nguyenthanhhungDE/Data-Visualization/assets/134383281/95a75a95-88db-4203-822d-2eff18d63d59)
+![image][(https://github.com/nguyenthanhhungDE/Data-Visualization/assets/134383281/95a75a95-88db-4203-822d-2eff18d63d59)](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/1removeOutlier%20.png)
 
 - Kiểm tra tìm Missing data và fill bằng phương pháp mean
 ![image](https://github.com/nguyenthanhhungDE/Data-Visualization/assets/134383281/ec0071fa-71ac-4f5f-a5dc-630bf23b874c)
