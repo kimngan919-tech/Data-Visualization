@@ -76,13 +76,19 @@ Sử dụng thuật toán decision tree để xây dựng các luật IF - THEN 
 -	Đối với khách hàng không phản hồi với chiến dịch tiếp thị (respone = 0) 
 -	Đối với khách hàng không chấp nhận tham gia chiến dịch tiếp thị 5 và chiến dịch tiếp thị 3 và số tiền bỏ ra mua thịt nhỏ hơn 520$ trong 2 năm thì khả năng người đó không phản hồi lại chiến dịch mới đạt khoảng 91,5%. 
 -	Cũng tương tự khách hàng không chấp nhận tham gia chiến dịch tiếp thị 5 và chiến dịch tiếp thị 3 nhưng số tiền chi ra mua thịt lớn hơn 520$ trong 2 năm thì khả năng người đó không phản hồi lại chiến dịch đạt khoảng 70,5%.
-- Trong số các biến dự đoán, ta thấy 3 biến Accepted Cmp3, Accepted Cmp5 và Meat quan trọng và ảnh hưởng nhất đến biến kết quả. 
+- Trong số các biến dự đoán, ta thấy 3 biến Accepted Cmp3, Accepted Cmp5 và Meat quan trọng và ảnh hưởng nhất đến biến kết quả.
+- 
 ![image](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/17accepted.png)
+
 - Thực hiện đánh giá mô hình dựa vào confusion matrix
+- 
 ![image](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/18confusion.png)
+
 Độ chính xác của mô hình đạt 88% .
-- Preiction 
+- Preiction
+- 
 ![image](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/19preiction.png)
 
-`Kết quả xác suất 52% người đó phản hồi lại chiến dịch tiếp thị mới nhất. Kết quả này đúng với dự đoán của nhóm. Vì ta thấy người này có chấp nhận tham gia cả 3 chiến dịch là 1,3,5 và số tiền chi ra mua thịt > 600$ nên khả năng cao lớn hơn 50% người đó phản hồi lại chiến dịch tiếp thị mới nhất.  `
+`Kết quả xác suất 52% người đó phản hồi lại chiến dịch tiếp thị mới nhất. Kết quả này đúng với dự đoán của nhóm. Vì ta thấy người này có chấp nhận tham gia cả 3 chiến dịch là 1,3,5 và số tiền chi ra mua thịt > 600$ nên khả năng cao lớn hơn 50% người đó phản hồi lại chiến dịch tiếp thị mới nhất.  
+
 ![image](https://raw.githubusercontent.com/kimngan919-tech/Data-Visualization/ede3dfb6cff5bf8e83d39d0bfa2aa52d4da9974a/Img/20e.png)
